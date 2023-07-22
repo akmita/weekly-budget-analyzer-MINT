@@ -1,0 +1,166 @@
+EventID,LotNumber,Category,Region,Title,Subtitle,Description,Price,ReservePrice,AcceptOffers,IsTaxable,Image_1,Image_2,Image_3,Image_4,Image_5,Image_6,Image_7,Image_8,Image_9,Image_10,Image_11,Image_12,Image_13,Image_14,Image_15,Image_16,Image_17,Image_18,Image_19,Image_20,Image_21,Image_22,Image_23,Image_24,Image_25,Image_26,Image_27,Image_28,Image_29,Image_30,Image_31,Image_32,Image_33,Image_34,Image_35,Image_36,Image_37,Image_38,Image_39,Image_40,Image_41,Image_42,Image_43,Image_44,Image_45,Image_46,Image_47,Image_48,Image_49,Image_50,YouTubeID,PdfAttachments,Bold,Badge,Highlight,ShippingOptions,Logistics,Location
+1577211,1,161414,,Mori Seiki NVX 5080,,"X-Axis Travel: 41.33""
+Y-Axis Travel:20.86""
+Z-Axis Travel: 20""
+Table Size: 43.3"" x 23.6""
+Spindle Taper: CAT 40
+Spindle Speed: 8,000 RPM
+Tool changer Capacity: 
+Tool-Changer: 36 tools 
+Tool change time 1 sec
+machine weight approx. 16,000 Lbs
+",100,,,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Roseville, CA"
+1577211,2,161414,,YCM VX1020A,,"TABLE WORKING SURFACE 44"" x 20""
+TABLE LOAD CAPACITY 1,100 LBS
+X-AXIS TRAVEL: 40""
+Y-AXIS TRAVEL: 20.4""
+Z-AXIS TRAVEL: 21.2""
+RAPID TRAVERSE RATE, ALL AXES 1417 IPM
+SPINDLE NOSE TO TABLE TOP 5.9"" - 27.2""
+TOOL CHANGER ARM STYLE 24
+SPINDLE HORSEPOWER 20 HP
+SPINDLE SPEEDS RANGE 10,000 RPM
+SPINDLE TAPER CAT 40
+WAY SYSTEM LINEAR GUIDEWAY
+OVERALL DIMENSIONS 119"" x 116""
+APPROXIMATE WEIGHT 11,795 LBS.
+",100,,,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Roseville, CA"
+1577211,3,161414,,YCM FV102A ,,"X-AXIS TRAVEL: 40.15""
+Y-AXIS Travel: 20.47""
+Z-AXIS MOVEMENT: 21.2""
+Table Size: 44"" x 19""
+Table Capacity: 
+spindle Taper: CAT 40
+Spindle Speed: 8,000 RPM
+Tool Capacity: 24 tools",100,,,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Roseville, CA"
+1577211,4,161414,,Hardinge SV 200,,"Max. Swing: 18""
+Max. Turning Diameter: 11.1""
+Center Distance: 20.7""
+Chuck Size: 6""
+Bar Capacity: 2""
+X-Axis Travel: 9""
+Z-Axis Travel: 16""
+Rapid Traverse (X/Z): 1,181
+Spindle Speed: 5,000 RPM
+Spindle Motor : 15 HP
+Turret Capacity: 12",100,,,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Roseville, CA"
+1577211,5,161414,,LNS Servo Barfeed,,"Weight 820 lbs
+Retraction travel (X and Z axis) 23.6""
+Minimum diameter (round) 0.236""
+Maximum diameter (round) 3.15""
+Minimum bar stock length 14""
+Maximum bar stock length 63""",100,,,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Roseville, CA"
+1577211,6,161414,,Hardinge Talent 6/45 ,,"Max Swing Over Bed: 18""
+Max Turning Diameter: 11.1""
+Max Turning Length: 16""
+Spindle Speed: 6000 RPM 
+Spindle Power: 17.5 HP
+Spindle Nose: A2-5
+Max Bar Capacity: 1.77""
+Turret Capacity: 12 Stations
+Turret Index Time: 0.73 Seconds 
+X-Axis Travel: 9"" 
+Z-Axis Travel: 16"" 
+Rapid Traverse Rate (X/Z): 1,181 IPM",100,,,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Roseville, CA"
+1577211,7,161414,,OmniTurn GT-75,,"Chuck Size (max) 4.0 in
+Max Cutting Diameter 6.0 in
+Bar Capacity 1.06 in
+Maximum Speed: 4,000 RPM
+Drawtube Bore: 1.125?
+Motor: 5 HP
+X-Axis Travel: 12?
+Y-Axis Travel: 9?
+Resolution of Slide Travel: 0.00005?
+Maximum Rapid: 300 IPM
+Maximum Cutting: 300 IPM
+Machine Weight: 1,700 lbs.
+Electrical: 220 Volt, Three Phase
+Overall Dimensions: 67? x 38? x 73? tall",100,,,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Roseville, CA"
+1577211,8,161414,,Mazak SQT-200MS 2001,,"X-Axis Travel: 41.33""
+Y-Axis Travel:20.86""
+Z-Axis Travel: 20""
+Table Size: 43.3"" x 23.6""
+Spindle Taper: CAT 40
+Spindle Speed: 8,000 RPM
+Tool changer Capacity: 
+Tool-Changer: 36 tools 
+Tool change time 1 sec
+machine weight approx. 16,000 Lbs
+",100,,,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Glendale, WV"
+1577211,9,161414,,Brown & Sharpe,,"X-Axis Travel: 41.33""
+Y-Axis Travel:20.86""
+Z-Axis Travel: 20""
+Table Size: 43.3"" x 23.6""
+Spindle Taper: CAT 40
+Spindle Speed: 8,000 RPM
+Tool changer Capacity: 
+Tool-Changer: 36 tools 
+Tool change time 1 sec
+machine weight approx. 16,000 Lbs
+",100,,,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Glendale, WV"
+1577211,10,161414,,Gallmeyer Grinder-#3,,"TABLE WORKING SURFACE 44"" x 20""
+TABLE LOAD CAPACITY 1,100 LBS
+X-AXIS TRAVEL: 40""
+Y-AXIS TRAVEL: 20.4""
+Z-AXIS TRAVEL: 21.2""
+RAPID TRAVERSE RATE, ALL AXES 1417 IPM
+SPINDLE NOSE TO TABLE TOP 5.9"" - 27.2""
+TOOL CHANGER ARM STYLE 24
+SPINDLE HORSEPOWER 20 HP
+SPINDLE SPEEDS RANGE 10,000 RPM
+SPINDLE TAPER CAT 40
+WAY SYSTEM LINEAR GUIDEWAY
+OVERALL DIMENSIONS 119"" x 116""
+APPROXIMATE WEIGHT 11,795 LBS.
+",100,,,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Glendale, WV"
+1577211,11,161414,,Sheldon 15 Lathe-#4,,"X-AXIS TRAVEL: 40.15""
+Y-AXIS Travel: 20.47""
+Z-AXIS MOVEMENT: 21.2""
+Table Size: 44"" x 19""
+Table Capacity: 
+spindle Taper: CAT 40
+Spindle Speed: 8,000 RPM
+Tool Capacity: 24 tools",100,,,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Glendale, WV"
+1577211,12,161414,,WF Wells-#5,,"Max. Swing: 18""
+Max. Turning Diameter: 11.1""
+Center Distance: 20.7""
+Chuck Size: 6""
+Bar Capacity: 2""
+X-Axis Travel: 9""
+Z-Axis Travel: 16""
+Rapid Traverse (X/Z): 1,181
+Spindle Speed: 5,000 RPM
+Spindle Motor : 15 HP
+Turret Capacity: 12",100,,,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Glendale, WV"
+1577211,13,161414,,"20"" x 48"" Monarch Geared Head Engine Lathe",,"Weight 820 lbs
+Retraction travel (X and Z axis) 23.6""
+Minimum diameter (round) 0.236""
+Maximum diameter (round) 3.15""
+Minimum bar stock length 14""
+Maximum bar stock length 63""",100,,,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Glendale, WV"
+1577211,14,161414,,LeBlond Sliding Regal 24- #7,,"Max Swing Over Bed: 18""
+Max Turning Diameter: 11.1""
+Max Turning Length: 16""
+Spindle Speed: 6000 RPM 
+Spindle Power: 17.5 HP
+Spindle Nose: A2-5
+Max Bar Capacity: 1.77""
+Turret Capacity: 12 Stations
+Turret Index Time: 0.73 Seconds 
+X-Axis Travel: 9"" 
+Z-Axis Travel: 16"" 
+Rapid Traverse Rate (X/Z): 1,181 IPM",100,,,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Glendale, WV"
+1577211,15,161414,,Mazak SQT-200MS 2001,,"Chuck Size (max) 4.0 in
+Max Cutting Diameter 6.0 in
+Bar Capacity 1.06 in
+Maximum Speed: 4,000 RPM
+Drawtube Bore: 1.125?
+Motor: 5 HP
+X-Axis Travel: 12?
+Y-Axis Travel: 9?
+Resolution of Slide Travel: 0.00005?
+Maximum Rapid: 300 IPM
+Maximum Cutting: 300 IPM
+Machine Weight: 1,700 lbs.
+Electrical: 220 Volt, Three Phase
+Overall Dimensions: 67? x 38? x 73? tall",100,,,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

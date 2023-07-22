@@ -1,0 +1,10 @@
+# Web Authorized Pmt
+# Web Authorized Payment
+# Payment Thank You
+# Mobile Payment Thank You
+# Mobile Banking Transfer Deposit
+# Return Web Authorized Payment Cardmember Serv
+# Payment Reversal
+# Mobile Banking Payment To Credit Card Card 7352
+
+# maybe try this, does desc contain the word Payment, payment, or Web Authorized, and is it income or credit card payment
