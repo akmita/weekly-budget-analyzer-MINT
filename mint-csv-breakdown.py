@@ -136,7 +136,7 @@ def getDirectoryTable():
     return sg.Table(values=getDirCsvNames(), headings=list(instance.df_cat.head()),
                     auto_size_columns=True,
                     enable_events=True,
-                    key='AllCategories',
+                    key='FileList',
                     size=(7, 7),
                     font=("Arial", 14)
                     )
@@ -175,7 +175,6 @@ while True:
         break
     # select transaction to ignore or include
     elif event == "transTable":
-        print("TABLE EVENT", values[event])
         try:
             i = values[event][0]
             # toggle flag
@@ -202,12 +201,14 @@ while True:
     #
 
     elif event == "OK":
-        selectedFiles = window["FileList"].get()
+        selectedRows = window["FileList"].SelectedRows
 
         # load new data
-        if len(selectedFiles) == 1:
-            print("current files selected:", window["FileList"].get())
-            instance = Main(selectedFiles[0])
+        if len(selectedRows) == 1:
+            # print("current files selected:", window["FileList"].get())
+
+            # create new instance of data class from selected CSV
+            instance = Main(getDirCsvNames()[selectedRows[0]])
             window["DateRange"].update(getCSVDateRange())
             window["TotalSpent"].update(f"TotalSpent: ${sumValidDebits(instance.df)}   ")
 
